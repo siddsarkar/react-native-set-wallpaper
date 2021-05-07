@@ -1,4 +1,4 @@
-package com.cunyutech.hollyliu.reactnative.wallpaper;
+package com.appxbeta.siddsarkar.reactnative.wallpaper;
 
 import android.graphics.drawable.Drawable;
 import android.net.Uri;

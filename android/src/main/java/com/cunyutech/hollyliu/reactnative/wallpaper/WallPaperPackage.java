@@ -1,4 +1,4 @@
-package com.cunyutech.hollyliu.reactnative.wallpaper;
+package com.appxbeta.siddsarkar.reactnative.wallpaper;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
