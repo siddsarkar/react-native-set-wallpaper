@@ -5,19 +5,19 @@ Set wallpaper with react-native
 ## Install
 
 ```sh
-npm install --save react-native-wallpaper-manager
+npm install --save react-native-set-wallpaper
 ```
 
 ## Link
 
 ```sh
-react-native link react-native-wallpaper-manager
+react-native link react-native-set-wallpaper
 ```
 
 ## Usage
 
 ```js
-import WallPaperManager from "react-native-wallpaper-manager";
+import WallPaperManager from "react-native-set-wallpaper";
 
 WallPaperManager.setWallpaper({ uri: "http://example.com/test.png" }, (res) => {
   console.log(res);
