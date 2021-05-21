@@ -1,6 +1,6 @@
 {
   "name": "react-native-set-wallpaper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sets wallpaper with react-native",
   "main": "index.js",
   "scripts": {
